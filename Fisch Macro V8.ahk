@@ -23,7 +23,7 @@ IdleScanDelay := 10
 ;======    Shake Settings    =====================================================================;
 
 ; Change To "Navigation" or "Click"
-ShakeMode := "Navigation"
+ShakeMode := "x"
 WhiteBarColorTolerance := 15
 FishBarColorTolerance := 0
 
